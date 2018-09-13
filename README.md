@@ -39,18 +39,18 @@ git clone https://github.com/pankaryp/Nodejs-minimalistic-boilerplate.git
 npm install
 
 # Then simply start your app
-npm start
+npm run start
 or
-npm devserer (run the server with nodemon)
+npm run devserer (run the server with nodemon)
 ```
 
 ### Available npm scripts
 
 Script | Desc
 --- | --- 
-npm test  | snyk vulnerability check
-npm start | run the server
-npm devserver | run the server with nodemon
+npm run test  | snyk vulnerability check
+npm run start | run the server
+npm run devserver | run the server with nodemon
 
 ### Contributing
 ---
