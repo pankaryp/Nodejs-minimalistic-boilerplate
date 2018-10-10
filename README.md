@@ -1,4 +1,7 @@
 # Nodejs-minimalistic-boilerplate
+
+![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+
 A minimalistic Node.js-Express boilerplate with MongoDB
 
 ### Dependencies
