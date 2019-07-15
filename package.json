@@ -28,8 +28,8 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.4",
-    "snyk": "^1.95.3"
+    "nodemon": "^1.19.1",
+    "snyk": "^1.193.1"
   },
   "engines": {
     "node": "8.11.4",
