@@ -30,7 +30,7 @@
 
 ### Getting Started
 
-```
+```sh
 # Clone the repository
 git clone https://github.com/pankaryp/nodejs-minimalistic-boilerplate.git
 cd nodejs-minimalistic-boilerplate
