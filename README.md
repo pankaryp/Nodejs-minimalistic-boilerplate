@@ -1,8 +1,8 @@
-# Nodejs-minimalistic-boilerplate
+# nodejs-minimalistic-boilerplate
 
-![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+![project boilerplate](https://img.shields.io/badge/project-boilerplate-blue.svg?style=flat-square)
 
-A minimalistic Node.js-Express boilerplate with MongoDB
+> A minimalistic node.js boilerplate.
 
 ### Dependencies
 
@@ -27,21 +27,18 @@ A minimalistic Node.js-Express boilerplate with MongoDB
 
 * [Node.js](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/) 
-* Command line tools
 
 ### Getting Started
 
 ```
-# Go to your project directory
-cd my-project
-
 # Clone the repository
-git clone https://github.com/pankaryp/Nodejs-minimalistic-boilerplate.git
+git clone https://github.com/pankaryp/nodejs-minimalistic-boilerplate.git
+cd nodejs-minimalistic-boilerplate
 
 # Install NPM dependencies
 npm install
 
-# Then simply start your app
+# Then simply start your server
 npm run start
 or
 npm run devserer (run the server with nodemon)
