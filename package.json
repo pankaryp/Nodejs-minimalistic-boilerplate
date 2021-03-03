@@ -24,7 +24,7 @@
     "helmet": "^3.13.0",
     "mongoose": "^5.2.14",
     "path": "^0.12.7",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "request": "^2.88.0"
   },
   "devDependencies": {
